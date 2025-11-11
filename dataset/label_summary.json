@@ -1,0 +1,19 @@
+{
+  "5class_distribution": {
+    "Liga Spanyol": 50,
+    "Liga Indonesia": 26,
+    "Liga Inggris": 26,
+    "Liga Italia": 26,
+    "Olahraga non-sepakbola": 24
+  },
+  "stage1_distribution": {
+    "1": 128,
+    "0": 24
+  },
+  "stage2_distribution": {
+    "Liga Spanyol": 50,
+    "Liga Indonesia": 26,
+    "Liga Inggris": 26,
+    "Liga Italia": 26
+  }
+}

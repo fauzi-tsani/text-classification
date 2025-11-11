@@ -1,0 +1,39 @@
+{
+  "accuracy": 0.4583333333333333,
+  "Liga Inggris": {
+    "precision": 0.2222222222222222,
+    "recall": 0.5,
+    "f1-score": 0.30769230769230765,
+    "support": 4
+  },
+  "Liga Indonesia": {
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1-score": 0.8571428571428571,
+    "support": 4
+  },
+  "Liga Spanyol": {
+    "precision": 0.5,
+    "recall": 0.75,
+    "f1-score": 0.6,
+    "support": 8
+  },
+  "Liga Italia": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "Olahraga non-sepakbola": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "weighted avg": {
+    "precision": 0.3703703703703704,
+    "recall": 0.4583333333333333,
+    "f1-score": 0.39413919413919407,
+    "support": 24
+  }
+}
